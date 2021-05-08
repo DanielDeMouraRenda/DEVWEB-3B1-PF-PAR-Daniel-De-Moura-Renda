@@ -1,0 +1,2 @@
+C:\Users\Daniel Renda\Source\Repos\DEVWEB-3B1-PF-PAR-Daniel De Moura Renda\Workshop Tecnologia\obj\Debug\Workshop Tecnologia.csprojAssemblyReference.cache
+C:\Users\Daniel Renda\Source\Repos\DEVWEB-3B1-PF-PAR-Daniel De Moura Renda\Workshop Tecnologia\obj\Debug\Workshop Tecnologia.csproj.CoreCompileInputs.cache
